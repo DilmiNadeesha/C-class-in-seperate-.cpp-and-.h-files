@@ -1,1 +1,1 @@
-# C-class-in-seperate-.cpp-and-.h-files
+# CPP class-in-seperate-.cpp-and-.h-files
